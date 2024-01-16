@@ -45,3 +45,5 @@
   <img src="[https://i.imgur.com/GZHodUG.png](https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&)" width="100px"/>
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997)
+
