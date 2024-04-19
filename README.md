@@ -110,7 +110,7 @@
                     height="20" alt="telegram logo" />
             </a>
         </div>
-        <div align="left">
+        <div align="left" width="100%">
             <p align="left">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
