@@ -5,25 +5,12 @@
         alt="Banner"
       />
     </div>
-
     <h1 align="left">Hi 👋, I'm Nageshwar Pundlikrao Pawar</h1>
-
-    ###
-
     <h3 align="left">
       I'm a passionate Full Stack Web Developer, from Nanded, Maharashtra
     </h3>
-
-    ###
-
     <h1 align="left"></h1>
-
-    ###
-
     <h2 align="left">About me</h2>
-
-    ###
-
     <div align="left">
       - 🔭 I’m currently working on [E-Commerce
       Website](https://shopify-by-nageshwar-pawar.netlify.app/) - 🌱 I’m
@@ -36,25 +23,19 @@
       me **nageshpawarpatil@gmail.com** - 📄 Know about my experiences
       [https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link](https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link)
     </div>
-
-    ###
-
     <br clear="both" />
-
     <img
       align="right"
       alt="Coding"
       width="400"
       src="https://www.shootdartsolutions.com/img/service/web-design.gif"
     />
-
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="nageshwar1997"
       />
     </p>
-
     <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
@@ -62,13 +43,7 @@
           alt="nageshwar1997"
       /></a>
     </p>
-
-    ###
-
     <h3 align="left">I code with</h3>
-
-    ###
-
     <div align="left">
       <img
         src="https://skillicons.dev/icons?i=html"
@@ -112,7 +87,6 @@
         alt="nodejs logo"
       />
     </div>
-
     <h3 align="left">Languages and Tools</h3>
     <div align="left">
       <img
@@ -122,9 +96,6 @@
         height="40"
       />
     </div>
-
-    ###
-
     <h3 align="left">Connect with me</h3>
     <div align="left">
       <a href="https://codepen.io/nageshwar-pawar" target="blank"
@@ -202,8 +173,6 @@
         />
       </a>
     </div>
-
-    ###
     <div align="left">
       <p align="left">
         <img
@@ -212,7 +181,6 @@
           alt="nageshwar1997"
         />
       </p>
-
       <p align="left">
         &nbsp;<img
           align="center"
@@ -220,7 +188,6 @@
           alt="nageshwar1997"
         />
       </p>
-
       <p align="left">
         <img
           align="center"
@@ -229,8 +196,6 @@
         />
       </p>
     </div>
-    ###
-
     <div align="left">
       <a href="https://open.spotify.com/user/315znkzmwlclx7p64xipnwfcaiq4">
         <img
