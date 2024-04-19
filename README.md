@@ -11,18 +11,20 @@
     </h3>
     <h1 align="left"></h1>
     <h2 align="left">About me</h2>
-    <div align="left">
-      - 🔭 I’m currently working on [E-Commerce
-      Website](https://shopify-by-nageshwar-pawar.netlify.app/) - 🌱 I’m
-      currently learning **Full-Stack Web Development** - 🔭 I’m currently
+    - 🔭 I’m currently working on [E-Commerce
+      Website](https://shopify-by-nageshwar-pawar.netlify.app/) 
+      - 🌱 I’m
+      currently learning **Full-Stack Web Development** 
+      - 🔭 I’m currently
       working on [Personal
-      Portfolio](https://nageshwar-pawar-personal-portfolio.netlify.app/) - 👨‍💻
+      Portfolio](https://nageshwar-pawar-personal-portfolio.netlify.app/) 
+      - 👨‍💻
       All of my projects are available at
       [https://nageshwar-pawar-personal-portfolio.netlify.app/](https://nageshwar-pawar-personal-portfolio.netlify.app/)
-      - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA** - 📫 How to reach
-      me **nageshpawarpatil@gmail.com** - 📄 Know about my experiences
-      [https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link](https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link)
-    </div>
+      - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA** 
+      - 📫 How to reach
+      me **nageshpawarpatil@gmail.com** 
+      - 📄 Know about my experiences [https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link](https://drive.google.com/file/d/1QHveM6yK7f1qKL6nkUduMUcwrLBn92CB/view?usp=drive_link)
     <br clear="both" />
     <img
       align="right"
