@@ -113,17 +113,17 @@
         <br />
         <div align="left">
             <span align="left">
-                <img height="200px" align="center"
+                <img align="center"
                     src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en"
                     alt="nageshwar1997" />
             </span>
             <span align="left">
-                <img height="200px" align="center"
+                <img align="center"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
                     alt="nageshwar1997" />
             </span>
             <span align="left">
-                <img height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
                     alt="nageshwar1997" />
             </span>
         </div>
