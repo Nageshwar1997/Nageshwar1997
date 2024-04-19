@@ -10,23 +10,23 @@
         <h1 align="left"></h1>
         <h2 align="left">About me</h2>
         <div align="left">
-            <p>- 🔭 I’m currently working on Below Projects
+            <p>- 🔭 I’m currently working on following projects
             <ul style="list-style: none; font-size: 16px;">
                 <li>
-                    <a href="https://shopify-by-nageshwar-pawar.netlify.app/" style="text-decoration: none;"
-                        target="_blank">Shopify.com</a>
-                </li>
-                <li>
                     <a href="https://movix-by-nageshwar.netlify.app/" style="text-decoration: none;"
-                        target="_blank">Movix.com</a>
+                    target="_blank">Movix.com</a>
                 </li>
                 <li>
                     <a href="https://pharmeasybyng.netlify.app/" style="text-decoration: none;"
-                        target="_blank">PharmEasy.in</a>
+                    target="_blank">PharmEasy.in</a>
                 </li>
                 <li>
                     <a href="https://nageshwar-pawar-personal-portfolio.netlify.app/" style="text-decoration: none;"
-                        target="_blank">Personal Portfolio</a>
+                    target="_blank">Personal Portfolio</a>
+                </li>
+                <li>
+                    <a href="https://shopify-by-nageshwar-pawar.netlify.app/" style="text-decoration: none;"
+                        target="_blank">Shopify.com</a>
                 </li>
             </ul>
             </p>
@@ -110,22 +110,24 @@
                     height="20" alt="telegram logo" />
             </a>
         </div>
-        <div align="left" width="100%">
-            <p align="left">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
-                    alt="nageshwar1997" />
-            </p>
-            <p align="left">
-                &nbsp;<img align="center"
+        <br />
+        <div align="left">
+            <span align="left">
+                <img height="200px" align="center"
                     src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en"
                     alt="nageshwar1997" />
-            </p>
-            <p align="left">
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
+            </span>
+            <span align="left">
+                <img height="200px" align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
                     alt="nageshwar1997" />
-            </p>
+            </span>
+            <span align="left">
+                <img height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
+                    alt="nageshwar1997" />
+            </span>
         </div>
+        <br>
         <div align="left">
             <a href="https://open.spotify.com/user/315znkzmwlclx7p64xipnwfcaiq4">
                 <img src="https://spotify-recently-played-readme.vercel.app/api?user=315znkzmwlclx7p64xipnwfcaiq4&count=5&unique=true"
