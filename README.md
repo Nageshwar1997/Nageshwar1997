@@ -126,7 +126,7 @@
                     alt="nageshwar1997" />
             </p>
         </div>
-        <div align="left" style="width: 100%; border: 1px solid black;">
+        <div align="left">
             <a href="https://open.spotify.com/user/315znkzmwlclx7p64xipnwfcaiq4">
                 <img src="https://spotify-recently-played-readme.vercel.app/api?user=315znkzmwlclx7p64xipnwfcaiq4&count=5&unique=true"
                     alt="Spotify recently played" />
