@@ -121,6 +121,7 @@
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
                 alt="nageshwar1997" />
             </span>
+                <br />
             <span align="left">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
