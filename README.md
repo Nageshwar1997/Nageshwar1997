@@ -111,13 +111,13 @@
             </a>
         </div>
         <br />
-        <div align="left">
+        <div align="center">
             <span align="left">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en"
                     alt="nageshwar1997" />
             </span>
-            <span align="left">
+            <span align="right">
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar1997&"
                 alt="nageshwar1997" />
             </span>
@@ -126,7 +126,7 @@
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshwar1997&show_icons=true&locale=en&layout=compact"
                     alt="nageshwar1997" />
             </span>
-            <span align="left">
+            <span align="right">
                 <a href="https://open.spotify.com/user/315znkzmwlclx7p64xipnwfcaiq4">
                 <img src="https://spotify-recently-played-readme.vercel.app/api?user=315znkzmwlclx7p64xipnwfcaiq4&count=5&unique=true"
                     alt="Spotify recently played" />
