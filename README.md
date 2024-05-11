@@ -115,7 +115,8 @@
                 <div display="flex">
                     <span align="left" width="100%">
                         <img align="center"  width="100%"
-                            src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en"
+<!--                             src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en" -->
+                                src="https://github-readme-stats.vercel.app/api?username=Nageshwar1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
                             alt="nageshwar1997" />
                     </span>
                     <span align="left" margin="30">
