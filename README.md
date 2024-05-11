@@ -50,7 +50,7 @@
         </p>
         <p align="left">
             <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                    src="https://github-profile-trophy.vercel.app/?username=nageshwar1997" alt="nageshwar1997" /></a>
+                    src="https://github-profile-trophy.vercel.app/?username=nageshwar1997&theme=monokai" alt="nageshwar1997" /></a>
         </p>
         <h3 align="left">I code with</h3>
         <div align="left">
