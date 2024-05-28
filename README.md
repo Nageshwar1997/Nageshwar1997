@@ -115,7 +115,7 @@
                 <div display="flex">
                     <span align="left" width="100%">
                         <img align="center"  width="100%"
-                                src="https://github-profile-trophy.vercel.app/?username=nageshwar1997" alt="nageshwar1997"
+                                src="https://github-readme-stats.vercel.app/api?username=nageshwar1997&show_icons=true&locale=en" alt="nageshwar1997"
                             alt="nageshwar1997" />
                     </span>
                     <span align="left" margin="30">
