@@ -39,7 +39,7 @@
   </p>
   <p>
     <img
-      width="200"
+      height="200"
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       alt="Random Dev Quote"
     />
