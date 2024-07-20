@@ -35,12 +35,11 @@
       src="https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
       alt="nageshwar1997"
     />
-    <div align="left">
-      <img
-        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-        alt="Random Dev Quote"
-      />
-  </div>
+    <img
+      align="left"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+      alt="Random Dev Quote"
+    />
   <div align="left">
     <h2>🏆 Trophies</h2>
     <div>
