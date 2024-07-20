@@ -31,17 +31,15 @@
     width="400"
     src="https://www.shootdartsolutions.com/img/service/web-design.gif"
   />
-  <p>
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-      alt="Random Dev Quote"
-    />
-  </p>
-    <div align="left">
     <img
       src="https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
       alt="nageshwar1997"
     />
+    <div align="left">
+      <img
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+        alt="Random Dev Quote"
+      />
   </div>
   <div align="left">
     <h2>🏆 Trophies</h2>
