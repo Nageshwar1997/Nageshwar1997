@@ -28,7 +28,7 @@
   <img
     align="right"
     alt="Coding"
-    width="400"
+    width="300"
     src="https://www.shootdartsolutions.com/img/service/web-design.gif"
   />
   <p align="left">
