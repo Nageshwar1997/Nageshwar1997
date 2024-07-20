@@ -25,12 +25,8 @@
     </p>
   </div>
   <br clear="both" />
-  <img
-    align="right"
-    alt="Coding"
-    width="300"
-    src="https://www.shootdartsolutions.com/img/service/web-design.gif"
-  />
+  <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor about me:
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
@@ -38,11 +34,12 @@
     />
   </p>
   <p>
-    <img
-      align="left"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-      alt="Random Dev Quote"
-    />
+  <img
+    align="right"
+    alt="Coding"
+    width="500"
+    src="https://www.shootdartsolutions.com/img/service/web-design.gif"
+  />
   </p>
   <br clear="both" />
   <div align="left">
