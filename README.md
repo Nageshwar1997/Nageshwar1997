@@ -331,11 +331,6 @@
           >
             <img
               style="display: block"
-              src="https://github-readme-stats.vercel.app/api?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"
-              alt="GitHub Stats"
-            />
-            <img
-              style="display: block"
               src="https://github-readme-streak-stats.herokuapp.com/?user=Nageshwar1997&theme=transparent&hide_border=false"
               alt="GitHub Streak Stats"
             />
@@ -343,6 +338,11 @@
               style="display: block"
               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
               alt="Top Languages"
+            />
+            <img
+              style="display: block"
+              src="https://github-readme-stats.vercel.app/api?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"
+              alt="GitHub Stats"
             />
           </div>
         </div>
