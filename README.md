@@ -28,7 +28,7 @@
   <img
     align="right"
     alt="Coding"
-    width="300"
+    width="400"
     src="https://www.shootdartsolutions.com/img/service/web-design.gif"
   />
   <p align="left">
@@ -40,14 +40,14 @@
   <p>
     <img
       align="left"
-      width="100%"
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       alt="Random Dev Quote"
     />
   </p>
+  <br clear="both" />
   <div align="left">
-    <h2>🏆 Trophies</h2>
     <div>
+      <h2>🏆 Trophies</h2>
       <img
         width="100%"
         src="https://github-profile-trophy.vercel.app/?username=Nageshwar1997&theme=transparent&no-frame=false&no-bg=true&margin-w=4"
