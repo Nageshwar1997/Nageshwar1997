@@ -24,7 +24,7 @@
       but fixing them faster every day!
     </p>
   </div>
-  <!-- <br clear="both" /> -->
+  <br clear="both" />
   <img
     align="right"
     alt="Coding"
