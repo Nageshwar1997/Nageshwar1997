@@ -5,7 +5,7 @@
           src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg"
           alt="Banner"
         />
-        <h1 align="left">Hi 👋, I'm Nageshwar Pundlikrao Pawar</h1>
+        <h1 align="left">Hi 👋, I'm Nageshwar Pundlikrao Pawar.</h1>
         <h4 align="left">
           I'm a passionate Full Stack Web Developer, from Nanded, Maharashtra. I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
         </h4>
