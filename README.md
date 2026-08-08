@@ -1,350 +1,83 @@
-<div>
-      <div width="100%" margin="auto">
-        <img
-          width="100%"
-          src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg"
-          alt="Banner"
-        />
-        <h1 align="left">Hi 👋, I'm Nageshwar Pundlikrao Pawar.</h1>
-        <h4 align="left">
-          I'm a passionate Full Stack Web Developer, from Nanded, Maharashtra. I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
-        </h4>
-      </div>
-      <div>
-        <h2 align="left">About me</h2>
-        <div align="left">
-          <p>
-            🔭 I'm currently working on
-            <a
-              style="text-decoration: none; font-weight: bold"
-              href="https://github.com/Nageshwar1997/sugar_cosmetics"
-              target="_blank"
-              >Sugar Cosmetics</a
-            >
-            clone project.
-          </p>
-          <p>🌱 I'm currently learning Full-Stack Web Development.</p>
-          <p>💞️ I'm looking to collaborate on projects.</p>
-          <p>
-            📫 How to reach me
-            <a style="text-decoration: none; font-weight: bold" href="#contact"
-              >Contact</a
-            >.
-          </p>
-          <p>
-            👨‍💻 All of my projects are available
-            <a
-              style="text-decoration: none; font-weight: bold"
-              href="https://nageshwar-pawar-personal-portfolio.netlify.app/#my-project"
-              target="_blank"
-              >Here</a
-            >
-          </p>
-          <p>💬 Ask me about HTML, CSS, JavaScript, MERN & DSA.</p>
-          <p>
-            📄 Know about my Experiences &
-            <a
-              style="text-decoration: none; font-weight: bold"
-              href="https://drive.google.com/file/d/1tsZCJa5AjnNJ6i1ZkmGnsxwUB-HOBIMO/view?usp=sharing"
-              target="_blank"
-              >Certifications</a
-            >.
-          </p>
-          <p>
-            🎯 Goal : Striving to be the best and most skilled web developer.
-          </p>
-          <p>🎲 Fun fact : The first website ever created is still online!</p>
-          <p>
-            ✨ Creating bugs since day one, but fixing them faster every day!
-          </p>
-        </div>
-        <div style="display: flex; justify-content: space-between">
-          <img
-            src="https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
-            alt="nageshwar1997"
-          />
-          <img
-            align="right"
-            alt="Coding"
-            width="500"
-            src="https://www.shootdartsolutions.com/img/service/web-design.gif"
-          />
-        </div>
-        <br clear="both" />
-        <div align="left">
-          <h2>🏆 Trophies</h2>
-          <img
-            width="100%"
-            src="https://github-profile-trophy.vercel.app/?username=Nageshwar1997&theme=transparent&no-frame=false&no-bg=true&margin-w=4"
-            alt="GitHub Trophies"
-          />
-        </div>
-        <div align="left">
-          <h2 align="left">Work with Languages & Tools</h2>
-          <img
-            src="https://skillicons.dev/icons?i=html"
-            height="40"
-            alt="html5 logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=css"
-            height="40"
-            alt="css3 logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=js"
-            height="40"
-            alt="javascript logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=mongodb"
-            height="40"
-            alt="mongodb logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=express"
-            height="40"
-            alt="express logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=react"
-            height="40"
-            alt="react logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=babel"
-            height="40"
-            alt="babel logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=github"
-            height="40"
-            alt="github logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=codepen"
-            height="40"
-            alt="codepen logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=md"
-            height="40"
-            alt="markdown logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=netlify"
-            height="40"
-            alt="netlify logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=powershell"
-            height="40"
-            alt="powershell logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=redux"
-            height="40"
-            alt="redux logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=tailwind"
-            height="40"
-            alt="tailwindcss logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=vercel"
-            height="40"
-            alt="vercel logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=vite"
-            height="40"
-            alt="vite logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=vscode"
-            height="40"
-            alt="vscode logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=nodejs"
-            height="40"
-            alt="nodejs logo"
-          />
-          <img width="15" />
-          <img
-            src="https://skillicons.dev/icons?i=materialui"
-            height="40"
-            alt="material UI logo"
-          />
-        </div>
-        <div align="left">
-          <h2 align="left" id="contact">Contact Me</h2>
-          <a
-            style="text-decoration: none; color: transparent"
-            href="https://www.linkedin.com/in/nageshwar-pawar-a25041289/"
-            target="_blank"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-              width="60"
-              height="40"
-              alt="linkedin logo"
-            />
-          </a>
-          <a
-            href="mailto:nageshpawarpatil@gmail.com"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-              width="60"
-              height="40"
-              alt="gmail logo"
-            />
-          </a>
-          <a
-            href="https://x.com/NageshwarP0409"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-              width="60"
-              height="40"
-              alt="twitter logo"
-            />
-          </a>
-          <a
-            href="https://www.youtube.com/channel/UCYclJdBXriTHeMkbyg2aRxw"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-              width="60"
-              height="40"
-              alt="youtube logo"
-            />
-          </a>
-          <a
-            href="https://t.me/Nageshwar1997"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-              width="60"
-              height="40"
-              alt="telegram logo"
-            />
-          </a>
-          <a
-            href="https://www.instagram.com/aspiring_web_developer"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-              width="60"
-              height="40"
-              alt="instagram logo"
-            />
-          </a>
-          <a
-            href="https://www.facebook.com/atimhsusnageshpawar5630"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-              width="60"
-              height="40"
-              alt="facebook logo"
-            />
-          </a>
-          <a
-            href="https://codepen.io/nageshwar-pawar"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg"
-              width="60"
-              height="40"
-              alt="codepen logo"
-            />
-          </a>
-          <a
-            href="https://codesandbox.io/u/nageshpawarpatil"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg"
-              width="60"
-              height="40"
-              alt="codesandbox logo"
-            />
-          </a>
-          <a
-            href="https://wa.me/+919730870409"
-            target="_blank"
-            style="text-decoration: none; color: transparent"
-          >
-            <img
-              src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-              width="60"
-              height="40"
-              alt="whatsapp logo"
-            />
-          </a>
-        </div>
-        <div>
-          <h2 align="left">GitHub Stats</h2>
-          <div
-            style="
-              width: 100%;
-              display: flex;
-              justify-content: space-between;
-              flex-direction: row;
-              flex-wrap: wrap;
-            "
-          >
-            <img
-              style="display: block"
-              src="https://github-readme-streak-stats.herokuapp.com/?user=Nageshwar1997&theme=transparent&hide_border=false"
-              alt="GitHub Streak Stats"
-            />
-            <img
-              style="display: block"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-              alt="Top Languages"
-            />
-            <img
-              style="display: block"
-              src="https://github-readme-stats.vercel.app/api?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"
-              alt="GitHub Stats"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
+<div align="center">
+
+# Hi, I'm Nageshwar Pundlikrao Pawar 👋
+
+**Full-Stack Web Developer (MERN) · Nanded, Maharashtra, India**
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Crafting+pixel-perfect%2C+responsive+web+experiences;Currently+building+a+Sugar+Cosmetics+clone;Comfortable+across+HTML%2C+CSS%2C+JavaScript+%26+MERN;Open+to+collaboration+and+new+opportunities)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nageshwar1997&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Nageshwar1997)
+[![GitHub Followers](https://img.shields.io/github/followers/Nageshwar1997?label=Followers&style=flat-square&color=0e75b6)](https://github.com/Nageshwar1997?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://nageshwar-pawar-personal-portfolio.netlify.app/#my-project)
+[![Resume](https://img.shields.io/badge/Resume%20%26%20Certifications-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tsZCJa5AjnNJ6i1ZkmGnsxwUB-HOBIMO/view?usp=sharing)
+
+</div>
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Currently Building](#currently-building)
+- [GitHub Activity](#github-activity)
+- [Connect With Me](#connect-with-me)
+
+## About Me
+
+- 🔭 Currently building a clone of [**Sugar Cosmetics**](https://github.com/Nageshwar1997/sugar_cosmetics), an e-commerce front end.
+- 🌱 Deepening my skills in Full-Stack Web Development (MERN).
+- 💞️ Open to collaborating on web development projects.
+- 👨‍💻 All of my projects are listed on my [**portfolio**](https://nageshwar-pawar-personal-portfolio.netlify.app/#my-project).
+- 💬 Ask me about HTML, CSS, JavaScript, the MERN stack, or DSA.
+- 📄 My experience and certifications are available [**here**](https://drive.google.com/file/d/1tsZCJa5AjnNJ6i1ZkmGnsxwUB-HOBIMO/view?usp=sharing).
+- 📫 Reach me through any of the channels in [Connect With Me](#connect-with-me).
+- 🎯 Goal: to keep growing into one of the most skilled and reliable web developers I can be.
+- ✨ Creating bugs since day one — fixing them faster every day.
+
+## Tech Stack
+
+| Category | Stack |
+|---|---|
+| **Languages** | ![HTML5, CSS3, JavaScript](https://skillicons.dev/icons?i=html,css,js) |
+| **Frontend** | ![React, Redux, Tailwind CSS, Material UI](https://skillicons.dev/icons?i=react,redux,tailwind,materialui) |
+| **Backend** | ![Node.js, Express](https://skillicons.dev/icons?i=nodejs,express) |
+| **Database** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+| **Build Tools** | ![Vite, Babel](https://skillicons.dev/icons?i=vite,babel) |
+| **Editor & Version Control** | ![VS Code, GitHub](https://skillicons.dev/icons?i=vscode,github) |
+| **Hosting & Deployment** | ![Netlify, Vercel](https://skillicons.dev/icons?i=netlify,vercel) |
+| **Other Tools** | ![PowerShell, CodePen, Markdown](https://skillicons.dev/icons?i=powershell,codepen,md) |
+
+## Currently Building
+
+> **[Sugar Cosmetics Clone](https://github.com/Nageshwar1997/sugar_cosmetics)** — a front-end clone of the Sugar Cosmetics e-commerce site, focused on responsive, pixel-accurate UI implementation.
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nageshwar1997&theme=transparent&hide_border=false" alt="GitHub Streak Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshwar1997&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nageshwar1997&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshwar-pawar-a25041289/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nageshpawarpatil@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NageshwarP0409)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYclJdBXriTHeMkbyg2aRxw)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nageshwar1997)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aspiring_web_developer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atimhsusnageshpawar5630)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nageshwar-pawar)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/nageshpawarpatil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919730870409)
+
+</div>
